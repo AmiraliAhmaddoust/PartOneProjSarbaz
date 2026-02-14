@@ -47,9 +47,7 @@ accounts = [
     {"username": "#", "password": "#"},
     {"username": "#", "password": "#"},
     {"username": "#", "password": "#"}
-    #برای حفظ دیتاهای اکانتهای شرکت و بخاطر 
-    # NDA
-    #  امضا شده اسم و رمز اکانتها با # جایگزین شد 
+
 ]
 
 
